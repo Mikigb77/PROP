@@ -1,0 +1,34 @@
+ To test the correct functioning of the kenken reading, a series
+ of files with the standard kenken format with special features
+ are provided. The following kenken files are described below
+
+kenken-0.txt:
+Correct Kenken provided by PROP official website. Cells do not have assigned
+values.
+
+kenken-1.txt
+Correct Kenken with all cells initialized with values
+
+kenken-2.txt
+Invalid Kenken witch attempt to assign the same cell in a table twice
+
+Kenken-3.txt
+Invalid Kenken with a cell witch value out of range
+
+kenken-4.txt
+Invalid kenken witch attempting to add cell not adjacent to other cells in its group
+
+kenken-5.txt
+Invalid kenken witch incomplete group for operation
+
+kenken-6.txt
+Invalid kenken witch cells on the board that have not been assigned to any group
+
+kenken-7.txt
+Invalid kenken with cells with incorrect coordinates
+
+
+
+
+
+

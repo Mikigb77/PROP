@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "cdate",
+        "kenken",
+        "kenkens",
+        "mockito",
+        "Sebas",
+        "Xaux",
+        "Yaux"
+    ],
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "CodeGPT.Autocomplete.enabled": true,
+    "CodeGPT.Autocomplete.provider": "CodeGPT Plus - Plus",
+    "CodeGPT.Autocomplete.suggestionDelay": 3000
+}
