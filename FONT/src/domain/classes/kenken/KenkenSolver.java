@@ -1,7 +1,6 @@
 package src.domain.classes.kenken;
 
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.Map;
 
 import src.domain.classes.board.Board;

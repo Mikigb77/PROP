@@ -1,14 +1,10 @@
 package drivers;
 
-import src.domain.classes.User;
 import src.domain.controllers.ActiveUserCtrl;
 import java.util.Scanner;
 
 public class ActiveUserDriver {
     private final Scanner sc = new Scanner(System.in);
-
-
-
 
     public static void main(String[] args) {
 
